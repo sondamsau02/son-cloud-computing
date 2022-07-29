@@ -91,7 +91,7 @@ bootstrap-slider.min.js"></script>
             	<li><a href=""> <span class="glynphicon glynphicon-asterisk"></span>Break New</a></li>
             	<li><a href=""> Brand</a></li>
             	<li><a href=""> <span class="glynphicon glynphicon-envelope"></span>Contact</a></li>
-                <li><a href=""> <span class="fa fa-shopping-cart"></span>shopping</a></li>
+                <li><a href=""> <span class="fa fa-shopping-cart"></span>shopig</a></li>
             </ul>
 		</div>
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
